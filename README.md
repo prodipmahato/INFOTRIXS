@@ -1,4 +1,4 @@
-# INFOTRIXS🚀 Another milestone achieved in my internship journey with hashtag#Infotrixs! 🌟
+# INFOTRIXS🚀 Another milestone achieved in my internship journey with #Infotrixs! 🌟
 
 I'm thrilled to share the successful completion of my weekly task - deploying a monolithic application. This hands-on experience was incredibly insightful and allowed me to explore various aspects of AWS and web development. 🌐
 
@@ -20,4 +20,4 @@ Here's a brief overview of my journey:
 
 I've attached a demo video to showcase the process step-by-step. Special thanks to my fantastic team at hashtag#Infotrixs who guided me throughout this exciting journey. 🙌
 
-Looking forward to more challenges and growth! 💪 hashtag#InfotrixsInternship hashtag#InfotrixsTeam hashtag#WebDevelopment hashtag#AWS hashtag#LearningAndGrowing
+Looking forward to more challenges and growth! 💪 #InfotrixsInternship #InfotrixsTeam #AWS #cloud #LearningAndGrowing
